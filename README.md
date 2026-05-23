@@ -23,23 +23,23 @@ Welcome to my GitHub profile! I'm a developer passionate about building useful s
 
 <table>
   <tr>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Python%20Essentials%201-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials 1"/>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/A1w4n/A1w4n/main/python-essentials-1.png" width="100%" alt="Python Essentials 1 Certificate"/>
       <br/><br/>
       <strong>Python Essentials 1</strong>
       <br/>
       <sub>📘 Cisco Networking Academy</sub>
       <br/>
-      <sub>Covers Python basics, data types, loops, functions, and fundamental programming concepts.</sub>
+      <sub>📅 Completed: February 22, 2026</sub>
     </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Python%20Essentials%202-Certified-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials 2"/>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/A1w4n/A1w4n/main/python-essentials-2.png" width="100%" alt="Python Essentials 2 Certificate"/>
       <br/><br/>
       <strong>Python Essentials 2</strong>
       <br/>
       <sub>📘 Cisco Networking Academy</sub>
       <br/>
-      <sub>Covers OOP, modules, exceptions, file I/O, and intermediate Python programming concepts.</sub>
+      <sub>📅 Completed: February 26, 2026</sub>
     </td>
   </tr>
 </table>

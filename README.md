@@ -9,6 +9,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🏅 Certifications 🏅
-[![Python Essentials 1](https://img.shields.io/badge/Python%20Essentials%201-Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/file/d/1CcODurjxKtyP72Xlrfcee0eUJADu-vVm/view?usp=drive_link)
+[![Python Essentials 1](https://img.shields.io/badge/Python%20Essentials%201%20--%20Certificate%20of%20Completion-Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/file/d/1CcODurjxKtyP72Xlrfcee0eUJADu-vVm/view?usp=drive_link)
 
-[![Python Essentials 2](https://img.shields.io/badge/Python%20Essentials%202-Cisco%20Networking%20Academy-003087?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/file/d/1LIqdLq7o97gmwfURfZaevGirDcqXKF2p/view?usp=drive_link)
+[![Python Essentials 2](https://img.shields.io/badge/Python%20Essentials%202%20--%20Certificate%20of%20Completion-Cisco%20Networking%20Academy-003087?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/file/d/1LIqdLq7o97gmwfURfZaevGirDcqXKF2p/view?usp=drive_link)
